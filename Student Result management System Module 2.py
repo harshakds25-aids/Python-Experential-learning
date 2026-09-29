@@ -69,7 +69,7 @@ class Student:
 
 class ResultManagementSystem:
 
-    FILE_NAME = "students.json"
+    FILE_NAME = "Student.json"
 
     def __init__(self):
         self.students = {}
