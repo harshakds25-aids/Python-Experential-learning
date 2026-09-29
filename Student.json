@@ -1,1 +1,11 @@
-{}
+{
+    "1": {
+        "roll_no": "1",
+        "name": "harsha",
+        "course": "ds",
+        "semester": "3",
+        "marks": {
+            "dsa": 87.0
+        }
+    }
+}
